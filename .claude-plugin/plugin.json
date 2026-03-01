@@ -1,0 +1,11 @@
+{
+  "name": "bujo-claude-cowork-plugin",
+  "version": "0.2.0",
+  "description": "BuJo + GTD + Stoicism productivity system for the ADHD brain. 8 rituals: daily, capture, calendar, weekly, monthly, yearly, mental-inventory, sprint.",
+  "author": {
+    "name": "Anton Suroff"
+  },
+  "repository": "https://github.com/donsuroff/add-revive",
+  "license": "MIT",
+  "keywords": ["productivity", "bullet-journal", "gtd", "stoicism", "adhd", "bujo"]
+}
